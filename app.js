@@ -7,3 +7,5 @@ let x = 15;
 console.log(x);
 console.log(y);
 console.log(z);
+
+const x=12;
