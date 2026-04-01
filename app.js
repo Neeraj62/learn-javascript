@@ -1,11 +1,14 @@
-var x = 5;
-console.log(x);
+// var x = 5;
+// console.log(x);
 
-var y = 10;
+// var y = 10;
 
-let x = 15;
-console.log(x);
+// let x = 15;
+// console.log(x);
+// console.log(y);
+
+
+let x= 22;
 console.log(y);
-console.log(z);
-
-const x=12;
+let y = 33;
+console.log(y);
