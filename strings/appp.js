@@ -12,4 +12,4 @@ let name=" neeraj   ";
 
 // console.log(name.length);
 console.log(name.trimEnd());
-console.log(name.trimStart());   
+console.log(name.trimStart()); 
